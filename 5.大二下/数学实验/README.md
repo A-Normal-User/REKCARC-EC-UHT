@@ -1,0 +1,1 @@
+# 目录：   - 数学实验-6字班.zip（个人信息已经脱敏）   - matlab 5手册   - MATLAB常用公式   - 往年课件（MathExp2023-01.pdf存在敏感信息，难以脱敏，不放出）## 提示：   - 这个目录下面是以前学长的实验报告，每年貌似都有一些重复的题目，可作cross reference### 其他可参考信息：https://github.com/zx1239856/UndergradProjects/tree/master/数学实验https://github.com/PKUanonym/REKCARC-TSC-UHT/tree/master/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E6%95%B0%E5%AD%A6%E5%AE%9E%E9%AA%8C
